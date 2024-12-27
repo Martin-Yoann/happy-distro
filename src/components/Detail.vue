@@ -3,7 +3,8 @@
       <div></div>
       <div></div>
       <div>
-         <span>Email: <i>cs.happy-distro.com</i></span>
+         <span>Email: <i>cs@ylsndistributioninc.com</i></span>
+         
       </div>
     </div>
   </template>
